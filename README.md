@@ -16,3 +16,11 @@ these are the resources i used for it:
 3. https://finance.yahoo.com
 
 I have done it for Two stocks: TATAMOTORS.NS and INFY.NS
+
+
+Part 2:
+Studying CNN and implementation (relevant resources in repo)
+resource: https://www.datacamp.com/tutorial/introduction-to-convolutional-neural-networks-cnns 
+and other playlists
+
+Assignment:  Linear Regression, Logistic Regression, and K-Nearest Neighbors (KNN)
